@@ -9,7 +9,7 @@ HomeSecure is a smart home control Android application built in Java that allows
 
 ## 🔗 Repository
 
-https://github.com/MohdKaifUlla/MAD-LAB-test-1
+[Add your GitHub repository link here]
 
 ## 📱 About the App
 
@@ -77,23 +77,16 @@ HomeSecure/
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   https://github.com/MohdKaifUlla/MAD-LAB-test-1
+   ```bash
+   git clone [Add your GitHub repository link here]
+   ```
 2. Open the project in Android Studio.
 3. Let Gradle sync (requires Gradle 8.6 and a JDK between versions 8–21).
 4. Run the app on an emulator or physical device (API 24+).
 
 ## 📸 Output Screenshots
 
-<img width="738" height="1600" alt="homesecure 1" src="https://github.com/user-attachments/assets/f813a3f2-3197-45d4-8c4b-45fe43257272" />
-<img width="738" height="1600" alt="homesecure 2" src="https://github.com/user-attachments/assets/b0a83b92-e991-4188-a759-402b5b1ef923" />
-<img width="738" height="1600" alt="homesecure 3" src="https://github.com/user-attachments/assets/940f669d-6244-4151-8221-9aaf8948bfa8" />
-<img width="738" height="1600" alt="homesecure 4" src="https://github.com/user-attachments/assets/e24c8ba0-00c8-447e-a13c-d388673584cd" />
-<img width="738" height="1600" alt="homesecure 5" src="https://github.com/user-attachments/assets/e0287c5f-5972-4562-9df3-1e4aeae62ffa" />
-<img width="738" height="1600" alt="homesecure 6" src="https://github.com/user-attachments/assets/8bd42b5e-b053-4261-9195-601e8c373ad3" />
-<img width="738" height="1600" alt="homesecure 7" src="https://github.com/user-attachments/assets/be4c3e56-cf5f-4e09-bdc0-79c831dcf81d" />
-<img width="738" height="1600" alt="homesecure 8" src="https://github.com/user-attachments/assets/7aa13408-7b32-42ed-a107-95c50b1daf5d" />
-<img width="738" height="1600" alt="homesecure 9" src="https://github.com/user-attachments/assets/d5e603e6-77e0-4414-b8e6-a9185e04e9d9" />
-<img width="738" height="1600" alt="homesecure 10" src="https://github.com/user-attachments/assets/24fc4b8d-4d7f-43e8-800e-5b0164bc902b" />
+[Add your output screenshots here]
 
 ## 📄 License
 
