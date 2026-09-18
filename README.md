@@ -77,16 +77,23 @@ HomeSecure/
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   ```bash
-   git clone [Add your GitHub repository link here]
-   ```
+  (https://github.com/MohdKaifUlla/HomeSecure.git)
 2. Open the project in Android Studio.
 3. Let Gradle sync (requires Gradle 8.6 and a JDK between versions 8–21).
 4. Run the app on an emulator or physical device (API 24+).
 
 ## 📸 Output Screenshots
 
-[Add your output screenshots here]
+<img width="738" height="1600" alt="homesecure 1" src="https://github.com/user-attachments/assets/168d5d97-f39f-423a-b5a7-38ae59831f02" />
+<img width="738" height="1600" alt="homesecure 2" src="https://github.com/user-attachments/assets/774ef8b7-2de2-4e67-85df-56a662b5f21a" />
+<img width="738" height="1600" alt="homesecure 3" src="https://github.com/user-attachments/assets/0fd7eff9-b774-46e4-b619-bc9ca7c69fec" />
+<img width="738" height="1600" alt="homesecure 4" src="https://github.com/user-attachments/assets/7d748e90-9d3c-4d75-8735-3ba3c25eec37" />
+<img width="738" height="1600" alt="homesecure 5" src="https://github.com/user-attachments/assets/cb1331ea-3214-48fb-a4f3-636efc5b6223" />
+<img width="738" height="1600" alt="homesecure 6" src="https://github.com/user-attachments/assets/a0a08a16-6053-4cf8-bc66-dd4d8ad8c5d6" />
+<img width="738" height="1600" alt="homesecure 7" src="https://github.com/user-attachments/assets/bdf3b5d9-92ca-4e32-bab7-76e1efb55baf" />
+<img width="738" height="1600" alt="homesecure 8" src="https://github.com/user-attachments/assets/901a0bda-bb71-4c56-818d-f0a97b1c2ecf" />
+<img width="738" height="1600" alt="homesecure 9" src="https://github.com/user-attachments/assets/3cfb38f7-bbb3-4386-ba69-1be94785066a" />
+<img width="738" height="1600" alt="homesecure 10" src="https://github.com/user-attachments/assets/5f7a8c24-5f3a-42cf-9fee-7c6780eb12e9" />
 
 ## 📄 License
 
