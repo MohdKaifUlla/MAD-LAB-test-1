@@ -9,7 +9,7 @@ HomeSecure is a smart home control Android application built in Java that allows
 
 ## 🔗 Repository
 
-[Add your GitHub repository link here]
+https://github.com/MohdKaifUlla/MAD-LAB-test-1
 
 ## 📱 About the App
 
@@ -77,9 +77,7 @@ HomeSecure/
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   ```bash
-   git clone [Add your GitHub repository link here]
-   ```
+   https://github.com/MohdKaifUlla/MAD-LAB-test-1
 2. Open the project in Android Studio.
 3. Let Gradle sync (requires Gradle 8.6 and a JDK between versions 8–21).
 4. Run the app on an emulator or physical device (API 24+).
