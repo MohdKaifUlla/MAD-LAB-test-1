@@ -9,7 +9,7 @@ HomeSecure is a smart home control Android application built in Java that allows
 
 ## 🔗 Repository
 
-[Add your GitHub repository link here]
+https://github.com/MohdKaifUlla/HomeSecure.git
 
 ## 📱 About the App
 
